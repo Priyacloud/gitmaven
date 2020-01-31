@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39" started-at="2020-01-31T02:57:41Z" finished-at="2020-01-31T02:57:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39" started-at="2020-01-31T02:57:41Z" finished-at="2020-01-31T02:57:41Z">
+      <class name="mavengit.jenkins.DEmo">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:mavengit.jenkins.DEmo@4cc0edeb]" name="createAccount" duration-ms="13" started-at="2020-01-31T08:27:41Z" finished-at="2020-01-31T08:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:mavengit.jenkins.DEmo@4cc0edeb]" name="launchBrowser" duration-ms="4" started-at="2020-01-31T08:27:41Z" finished-at="2020-01-31T08:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- mavengit.jenkins.DEmo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
